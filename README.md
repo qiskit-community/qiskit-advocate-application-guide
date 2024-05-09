@@ -19,24 +19,18 @@ As an Advocate, you will have the opportunity to have your work supported and hi
 ### 4. Receiving invitations to events
 As an active Advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
 
-## Advocate highlights
+## Advocate highlights and Tips
 
-- [Amir Ebrahimi](https://medium.com/qiskit/ive-worked-in-game-development-my-whole-career-here-s-why-i-m-learning-quantum-computing-41bd179b70f2): I’ve Worked in Game Development My Whole Career — Here’s Why I’m Learning Quantum Computing
-- [Amira Abbas](https://medium.com/qiskit/i-worked-in-finance-heres-why-i-m-learning-quantum-computing-9c1ec9b0b4a2): I Worked in Finance — Here’s Why I’m Learning Quantum Computing
-- [Desiree Vogt-Lee](https://medium.com/qiskit/how-ive-been-able-to-improve-qiskit-as-a-qiskit-advocate-a85f14faf89d): How I’ve Been Able to Improve Qiskit as a Qiskit Advocate
-- [Farai Mazhandu](https://medium.com/qiskit/join-qiskit-advocates-to-expand-your-network-and-grow-a48e390681b6): Join Qiskit Advocates to Expand Your Network and Grow
-- [Jack Woehr](https://medium.com/qiskit/benefits-of-the-qiskit-advocate-qiskit-project-access-a9d7824bfd85): Benefits of the Qiskit Advocate: Qiskit Project Access
-- [Junye Huang](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8): Qiskit Advocate Applications Open Today — Here’s What You Can Expect from the Program
-- [Kevin Roche](https://medium.com/qiskit/im-a-maker-and-costume-designer-here-s-why-i-m-learning-quantum-computing-1972a51b43f7): I’m a Maker and Costume Designer, Here’s Why I’m Learning Quantum Computing
--  [Kiran Johns](https://www.kiranjohns.com/blog/going-quantum/): Going Quantum, my journey so far as a Qiskit Advocate and a reflection on the things I learned
-- [Mark Cunningham](https://markcunningham.tech/2020/07/07/how-i-got-started-in-the-world-of-quantum-computing-and-my-experiences-so-far-as-a-qiskit-advocate/): How I got started in the world of Quantum Computing and my experiences so far as a Qiskit Advocate!
-- [Omar Costa Hamido](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac): I’m a Musician, and Here’s Why I’m Learning Quantum Computing
-- [Rochisha Agarwal](https://medium.com/@rochishaagarwal/how-i-became-a-qiskit-advocate-601cf59536cc): How I became a Qiskit Advocate
-- [Samanvay Sharma](https://medium.com/qiskit/quantum-events-are-even-better-as-a-qiskit-advocate-28e24e72dba9): Quantum Events Are Even Better As A Qiskit Advocate
-- [Samuel Choi](https://visbyrain.medium.com/%ED%95%99%EB%B6%80%EC%83%9D%EC%9D%80-ibm-qiskit-advocate%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8A%94%EA%B0%80-767738a3082d): 학부생은 IBM Qiskit Advocate를 꿈꾸는가? 2020: A Quantum Odyssey — and a year later
-- [Soyoung Shin](https://sophy-shin.medium.com/my-first-month-after-being-qiskit-advocate-9f03588d739e): My first month after being Qiskit Advocate
-- [Vicente Pina Canelles](https://medium.com/qiskit/why-i-became-a-qiskit-advocate-and-you-should-too-dc4ca7f6c6c5): Why I became a Qiskit Advocate, and why you should, too
-
+- [横松 大作](https://qiita.com/w371dy/items/1e50849c9c07b5646b2b): Qiskit Advocateになるには (日本語)
+- [Daisaku Yokomatsu](https://daisaku-yokomatsu.github.io/Blog/20240426/20240426.html): My road to Qiskit Advocate
+- [Diego Emilio Serrano](https://www.youtube.com/playlist?list=PLhI5X1mNN8ghWTnnUjwjMXGosOJSeYTW4)): Getting started with Qiskit V1.x
+- [Khadija Ech-challaouy](https://github.com/Qcatty/Qiskit_certificate_prep): A Workbook for the Qiskit Developer Certification Exam
+- [Khadija Ech-challaouy](https://github.com/Qcatty/Sample-exam-Solution-IBM-Certified-Associate-Developer--Qiskit-v0.2X): Sample exam Solution: IBM Certified Associate Developer
+- [Kiran Johns](https://kiranjohns.com/posts/going-quantum/): Going Quantum, the tale with qiskit!
+- [Marcelo Romaniuc](IBM Qiskit Exam: my four weeks preparation): IBM Qiskit Exam: my four weeks preparation
+- [Michael Rollin](https://github.com/mickahell/mickahell/blob/main/articles/art_content/advocate.md): Share my contributions to become a qiskit advocate
+- [Patrick Downing](https://blog.quantumlyconfused.com/quantum-computing/2022/05/08/qiskit-first-contribution/): Open Source Quantum Computing - First Qiskit Contribution
+- [Patrick Downing](https://blog.quantumlyconfused.com/categories/quantum-computing/): How I got started in the world of Quantum Computing and my experiences so far as a Qiskit Advocate!
 
 ## Who can apply?
 We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community and Qiskit ecosystem.
